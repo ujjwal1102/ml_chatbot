@@ -1,3 +1,3 @@
-# Machine learning projects
+# Machine Learning Projects
 
-Models using sklearn and nltk libraries
+Chatbot using sklearn and nltk Libraries
